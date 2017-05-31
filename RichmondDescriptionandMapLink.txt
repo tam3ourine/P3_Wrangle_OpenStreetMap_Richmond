@@ -1,0 +1,10 @@
+﻿Richmond Description and Map Link
+
+
+Link: https://mapzen.com/data/metro-extracts-old/#richmond-virginia
+
+
+Description: 
+
+
+        Richmond, the capital of Virginia, was founded in 1737 and has both historical and modern significance in the United States. It served as an important city in the early colonial period, as well as in the Revolutionary War and the Civil War. Today, it serves as a headquarters for Virginia legislation and arts. I chose this city to explore because despite it’s modern growth, Richmond still keeps a charming hospitable small town feel about it. The city is lined with historical sites as well as new and creative arts. Being from Virginia, I have visited the city numerous times, so I am especially interested to explore Richmond on OpenStreetMap to compare with what I already know about it.
